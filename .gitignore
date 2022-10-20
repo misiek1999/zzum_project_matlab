@@ -1,5 +1,30 @@
 # simulink auto-gen dirs
-/slprj
 /quick_connection_verification_slrealtime_rtw
 /quick_connection_verification_sldrt_win64
 /quick_connection_verification_sldrt_ert_win64
+
+# Windows default autosave extension
+*.asv
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
