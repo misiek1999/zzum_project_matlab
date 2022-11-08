@@ -1,4 +1,4 @@
 # ZZUM Project - Pilot 
 ## Use Matlab 2022b
-### This model requied: Instrument Control Toolbox
+### This model requied: Simulink Desktop Real-Time
 2022
